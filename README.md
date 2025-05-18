@@ -19,7 +19,7 @@ Predict employee attrition and identify key drivers using HR data, as part of El
 
 ## File Structure
 - `hr_data.csv`: Raw dataset
-- `attrition_analysis.ipynb`: Python notebook (EDA, preprocessing, model, SHAP, bonus prediction)
+- `attrition_analysis.ipynb`: Python notebook (EDA, preprocessing, model, SHAP)
 - `attrition_dashboard.pbix`: Power BI dashboard file
 - `attrition_dashboard.png`: Dashboard screenshot
 - `attrition_report.pdf`: Final report
